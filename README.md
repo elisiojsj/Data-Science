@@ -10,4 +10,8 @@ This is a good example of data science analysis.
 * Prediction model with **Linear Regression**, **Random Forest** and **XGBoost**.
 * XGBoost tuning with Optuna.
 
+ ![Correlation](https://github.com/elisiojsj/Data-Science/blob/master/images/CO_corr.png)
+ 
+ ![Tree](https://github.com/elisiojsj/Data-Science/blob/master/images/CO_tree.svg)
+
 
