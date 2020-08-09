@@ -15,4 +15,5 @@ This is a good example of data science analysis. Main topics of this work are:
 
 ## Software Used
 **Python version:** 3.7.4
+
 **Packages:** pandas, sklearn,seaborn, matplotlib, optuna, xgboost, statsmodels. 
