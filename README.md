@@ -13,7 +13,7 @@ This is a good example of data science analysis. Main topics of this work are:
  ![Correlation](https://github.com/elisiojsj/Data-Science/blob/master/images/CO_corr.png)
 
 
-## [Galton Hereditary Stature](https://github.com/elisiojsj/Data-Science/blob/master/CO_concentration-analysis.ipynb)
+## [Galton Hereditary Stature](https://github.com/elisiojsj/Data-Science/blob/master/Galton_Hereditary_Stature-analysis.ipynb)
 A Probabilistic Programming approach to the famous Galton Hereditary Stature dataset which is the basis for the [paper](http://galton.org/essays/1880-1889/galton-1886-jaigi-regression-stature.pdf) that popularized the concept of regression.
 * Analysis of the dataset
 * Bayesian Hierarchical Linear Regression using PyMC3.
