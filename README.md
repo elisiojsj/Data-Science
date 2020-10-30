@@ -23,8 +23,10 @@ A Probabilistic Programming approach to the famous Galton Hereditary Stature dat
 
 ---
 
-## [Simulating Spurious Association](https://github.com/elisiojsj/Data-Science/blob/master/Spurious_association_simulation.ipynb)**
+## [Simulating Spurious Association](https://github.com/elisiojsj/Data-Science/blob/master/Spurious_association_simulation.ipynb)
 Simple simulation of spurious association modeled with probabilistic programming.
+
+![Spurious](https://github.com/elisiojsj/Data-Science/blob/master/images/spur.svg)
 
 ---
 
