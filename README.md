@@ -30,6 +30,14 @@ Simple simulation of spurious association modeled with probabilistic programming
 
 ---
 
+## [Simulating Masking Relationship ](https://github.com/elisiojsj/Data-Science/blob/master/Masking_relationship_simulation.ipynb)
+Simple simulation of masking relationship modeled with probabilistic programming.
+
+![Masking](https://github.com/elisiojsj/Data-Science/blob/master/images/masking.png)
+
+
+---
+
 ## Software Used
 **Python version:** 3.7.4
 
