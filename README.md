@@ -35,6 +35,11 @@ Simple simulation of masking relationship modeled with probabilistic programming
 
 ![Masking](https://github.com/elisiojsj/Data-Science/blob/master/images/masking.png)
 
+---
+
+## [Causal DAGs](https://github.com/elisiojsj/Data-Science/blob/master/Causal_DAGs.ipynb)
+Simulation of the 4 elemental variable relations: the fork, pipe, collider, and descendant.
+
 
 ---
 
