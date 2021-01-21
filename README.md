@@ -23,6 +23,15 @@ A Probabilistic Programming approach to the famous Galton Hereditary Stature dat
 
 ---
 
+## Statistical Rethinking - Homeworks
+Homeworks of the course Statistical Rethinking, which is a probabilistic programming course/book, solved using PyMC3.
+* [Homework week 2](https://github.com/elisiojsj/Data-Science/blob/master/homeworks_statistical_rethinking/homework_week2.ipynb)
+* [Homework week 3](https://github.com/elisiojsj/Data-Science/blob/master/homeworks_statistical_rethinking/homework_week3.ipynb)
+* [Homework week 4](https://github.com/elisiojsj/Data-Science/blob/master/homeworks_statistical_rethinking/homework_week4.ipynb)
+* [Homework week 5](https://github.com/elisiojsj/Data-Science/blob/master/homeworks_statistical_rethinking/homework_week5.ipynb)
+
+---
+
 ## [Simulating Spurious Association](https://github.com/elisiojsj/Data-Science/blob/master/Spurious_association_simulation.ipynb)
 Simple simulation of spurious association modeled with probabilistic programming.
 
@@ -40,8 +49,8 @@ Simple simulation of masking relationship modeled with probabilistic programming
 ## [Causal DAGs](https://github.com/elisiojsj/Data-Science/blob/master/Causal_DAGs.ipynb)
 Simulation of the 4 elemental variable relations: the fork, pipe, collider, and descendant.
 
-
 ---
+
 
 ## Software Used
 **Python version:** 3.7.4
