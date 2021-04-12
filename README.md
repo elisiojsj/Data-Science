@@ -29,6 +29,10 @@ Homeworks of the course Statistical Rethinking, which is a probabilistic program
 * [Homework week 3](https://github.com/elisiojsj/Data-Science/blob/master/homeworks_statistical_rethinking/homework_week3.ipynb)
 * [Homework week 4](https://github.com/elisiojsj/Data-Science/blob/master/homeworks_statistical_rethinking/homework_week4.ipynb)
 * [Homework week 5](https://github.com/elisiojsj/Data-Science/blob/master/homeworks_statistical_rethinking/homework_week5.ipynb)
+* [Homework week 6](https://github.com/elisiojsj/Data-Science/blob/master/homeworks_statistical_rethinking/homework_week6.ipynb)
+* [Homework week 8-pt1](https://github.com/elisiojsj/Data-Science/blob/master/homeworks_statistical_rethinking/homework_week8.ipynb)
+* [Homework week 8-pt2](https://github.com/elisiojsj/Data-Science/blob/master/homeworks_statistical_rethinking/homework_week8-pt2.ipynb)
+* [Homework week 8-pt3](https://github.com/elisiojsj/Data-Science/blob/master/homeworks_statistical_rethinking/homework_week8-pt3.ipynb)
 
 ---
 
